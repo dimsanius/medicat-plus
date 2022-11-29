@@ -372,6 +372,10 @@
             "alias": "Jayro's Lockpick -->"
         },
         {
+            "image": "/Ventoy_Delete_Secure_Boot_Key/ventoy-delete-key-1.0.iso",
+            "alias": "Delete Ventoy Secure Boot Key"
+        },
+        {
             "image": "/Windows_Recovery/Windows_08_Recovery/Windows_08_Recovery.wim",
             "alias": "Windows 8 Recovery"
         },
@@ -548,6 +552,10 @@
             "alias": "Password Removal -->"
         },
         {
+            "dir": "/Ventoy_Delete_Secure_Boot_Key",
+            "alias": "Delete Ventoy Secure Boot Key -->"
+        },
+        {
             "dir": "/VHD",
             "alias": "VHDs -->"
         },
@@ -611,6 +619,10 @@
             {
                 "dir": "/Password_Removal",
                 "tip": "Remove passwords on Windows user accounts."
+            },
+            {
+                "dir": "/Ventoy_Delete_Secure_Boot_Key",
+                "tip": "Deletes Ventoy Secure Boot key (Password: 123)."
             },
             {
                 "dir": "/VHD",
@@ -1246,6 +1258,10 @@
         {
             "dir": "/OSimages/OS_Windows/64bit(x64)/Win11",
             "class": "windows11"
+        },
+        {
+            "dir": "/Ventoy_Delete_Secure_Boot_Key",
+            "class": "ventoy_del"
         },
         {
             "dir": "/Windows_Recovery",
