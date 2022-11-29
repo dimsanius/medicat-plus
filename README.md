@@ -47,6 +47,11 @@ This is a Ventoy customisation to a MediCat USB v21.12.
             - Windows 11
 </details>
 
+# Concerns
+There is no clear way of attaching a directoty tree from the USB. Therefore, there are 2 ways:
+- make directory structure out from `ventoy.json`
+- create new directory structure
+
 # Links
 - Official MediCat USB website: [Official Medicat website](https://medicatusb.com/)
 - Official forum page of MediCat USB with discussions: [Official Medicat forum page](https://gbatemp.net/threads/medicat-usb-a-multiboot-linux-usb-for-pc-repair.361577/)
