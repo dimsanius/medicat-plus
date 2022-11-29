@@ -1064,6 +1064,10 @@
             "class": "gandalfs_winpe"
         },
         {
+            "dir": "/Live_Operating_Systems/Hirens_Boot_CD_WinPE",
+            "class": "hirens"
+        },
+        {
             "dir": "/Live_Operating_Systems/Kali_Linux",
             "class": "kali"
         },

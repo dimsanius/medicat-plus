@@ -9,6 +9,7 @@ This is a Ventoy customisation to a MediCat USB v21.12.
 
 - Clonezilla icon
 - Gandalfs WinPE icon
+- Hirens Boot CD WinPe
 - Kali Linux
 - Linux Mint
 - Windows 7
