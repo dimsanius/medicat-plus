@@ -152,6 +152,30 @@
             "alias": "Active@ Data Studio -->"
         },
         {
+            "image": "/Live_Operating_Systems/Gandalfs_WinPE/gandalfs_win10pe_RS7-20H1_x64.iso",
+            "alias": "Gandalfs WinPE RS7 20H1"
+        },
+        {
+            "dir": "/Live_Operating_Systems/Gandalfs_WinPE",
+            "alias": "Gandalfs WinPE -->"
+        },
+        {
+            "image": "/Live_Operating_Systems/Hirens_Boot_CD_WinPE/hirens_boot_cd_pe_v1.0.2_x64.iso",
+            "alias": "Hirens Boot CD WinPE v1.0.2"
+        },
+        {
+            "dir": "/Live_Operating_Systems/Hirens_Boot_CD_WinPE",
+            "alias": "Hirens Boot CD WinPE -->"
+        },
+        {
+            "image": "/Live_Operating_Systems/Kali_Linux/kali_2022.3_live_amd64.iso",
+            "alias": "Kali Linux 2022.3 Live"
+        },
+        {
+            "dir": "/Live_Operating_Systems/Kali_Linux",
+            "alias": "Kali Linux Live -->"
+        },
+        {
             "image": "/Live_Operating_Systems/Mini_Windows/Mini_Windows_10.wim",
             "alias": "Mini Windows 10"
         },
@@ -276,6 +300,14 @@
             "alias": "AOMEI Partition Assistant -->"
         },
         {
+            "image": "/Partition_Tools/Clonezilla/clonezilla_live_v3.0.2-21_x64.iso",
+            "alias": "Clonezilla Live v3.0.2"
+        },
+        {
+            "dir": "/Partition_Tools/Clonezilla",
+            "alias": "Clonezilla -->"
+        },
+        {
             "image": "/Partition_Tools/DiskGenius/DiskGenius.wim",
             "alias": "DiskGenius"
         },
@@ -393,7 +425,119 @@
         },
         {
             "dir": "/OSimages",
-            "alias": "Install Windows -->"
+            "alias": "Install OS -->"
+        },
+        {
+            "dir": "/OSimages/OS_Linux",
+            "alias": "Choose Linux distro -->"
+        },
+        {
+            "dir": "/OSimages/OS_Linux/Kali",
+            "alias": "Kali Linux -->"
+        },
+        {
+            "image": "/OSimages/OS_Linux/Kali/kali_2022.3_installer_amd64.iso",
+            "alias": "Install Kali Linux 2022.3"
+        },
+        {
+            "dir": "/OSimages/OS_Linux/Linuxmint",
+            "alias": "Linuxmint -->"
+        },
+        {
+            "image": "/OSimages/OS_Linux/Linuxmint/linuxmint_21_cinnamon_amd64.iso",
+            "alias": "Install Linuxmint 21 (Cinnamon)"
+        },
+        {
+            "dir": "/OSimages/OS_Linux/Ubuntu",
+            "alias": "Ubuntu -->"
+        },
+        {
+            "image": "/OSimages/OS_Linux/Ubuntu/ubuntu_22.10_desktop_amd64.iso",
+            "alias": "Install Ubuntu 22.10"
+        },
+        {
+            "dir": "/OSimages/OS_Windows",
+            "alias": "Choose Windows version -->"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/32bit(x86)",
+            "alias": "32-bit(x86) -->"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/32bit(x86)/Win7",
+            "alias": "Windows 7(x32) -->"
+        },
+        {
+            "image": "/OSimages/OS_Windows/32bit(x86)/Win7/en_windows_7_ultimate_with_sp1_x86_dvd_u_677460.iso",
+            "alias": "Install Windows 7 Ultimate with SP1(x32)"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/32bit(x86)/Win10Consumer",
+            "alias": "Windows 10(x32) -->"
+        },
+        {
+            "image": "/OSimages/OS_Windows/32bit(x86)/Win10Consumer/en_windows_10_consumer_editions_version_22h2_updated_nov_2022_x86_dvd_b1a4aa97.iso",
+            "alias": "Install Windows 10 22H2(x32)"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/32bit(x86)/Win10LTSC",
+            "alias": "Windows 10 LTSC(x32) -->"
+        },
+        {
+            "image": "/OSimages/OS_Windows/32bit(x86)/Win10LTSC/en_windows_10_enterprise_ltsc_2021_x86_dvd_9f4aa95f.iso",
+            "alias": "Install Windows 10 LTSC 2021(x32)"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/32bit(x86)/WinXP",
+            "alias": "Windows XP(x32) -->"
+        },
+        {
+            "image": "/OSimages/OS_Windows/32bit(x86)/WinXP/en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso",
+            "alias": "Install Windows XP Professional with SP3(x32)"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)",
+            "alias": "64-bit(x64) -->"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)/Win7",
+            "alias": "Windows 7(x64) -->"
+        },
+        {
+            "image": "/OSimages/OS_Windows/64bit(x64)/Win7/en_windows_7_ultimate_with_sp1_x64_dvd_u_677332.iso",
+            "alias": "Install Windows 7 Ultimate with SP1(x64)"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)/Win8.1",
+            "alias": "Windows 8.1(x64) -->"
+        },
+        {
+            "image": "/OSimages/OS_Windows/64bit(x64)/Win8.1/en_windows_8.1_with_update_x64_dvd_6051480.iso",
+            "alias": "Install Windows 8.1 with update(x64)"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)/Win10Consumer",
+            "alias": "Windows 10(x64) -->"
+        },
+        {
+            "image": "/OSimages/OS_Windows/64bit(x64)/Win10Consumer/en_windows_10_consumer_editions_version_22h2_updated_nov_2022_x64_dvd_7fd29387.iso",
+            "alias": "Install Windows 10 22H2(x64)"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)/Win10LTSC",
+            "alias": "Windows 10 LTSC(x64) -->"
+        },
+        {
+            "image": "/OSimages/OS_Windows/64bit(x64)/Win10LTSC/en_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso",
+            "alias": "Install Windows 10 LTSC 2021(x64)"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)/Win11",
+            "alias": "Windows 11(x64) -->"
+        },
+        {
+            "image": "/OSimages/OS_Windows/64bit(x64)/Win11/en_windows_11_consumer_editions_version_22h2_updated_nov_2022_x64_dvd_c148a37b.iso",
+            "alias": "Install Windows 11 22H2(x64)"
         },
         {
             "dir": "/Partition_Tools",
@@ -427,6 +571,30 @@
             {
                 "dir": "/Live_Operating_Systems",
                 "tip": "Boot into a live operating system."
+            },
+            {
+                "dir": "/OSimages",
+                "tip": "Choose an OS to install."
+            },
+            {
+                "dir": "/OSimages/OS_Windows/32bit(x86)",
+                "tip": "Windows for old systems with less then 4GB RAM."
+            },
+            {
+                "dir": "/OSimages/OS_Windows/32bit(x86)/Win10Consumer",
+                "tip": "Following editions available: Home, Educational, Pro"
+            },
+            {
+                "dir": "/OSimages/OS_Windows/64bit(x64)",
+                "tip": "Windows for modern systems with any amount of RAM."
+            },
+            {
+                "dir": "/OSimages/OS_Windows/64bit(x64)/Win10Consumer",
+                "tip": "Following editions available: Home, Educational, Pro"
+            },
+            {
+                "dir": "/OSimages/OS_Windows/64bit(x64)/Win11",
+                "tip": "Following editions available: Home, Educational, Pro"
             },
             {
                 "dir": "/Boot_Repair",
@@ -513,6 +681,18 @@
                 "tip": "A collection of repair utilities all in one place."
             },
             {
+                "dir": "/Live_Operating_Systems/Gandalfs_WinPE",
+                "tip": "A collection of repair utilities all in one place for older systems."
+            },
+            {
+                "dir": "/Live_Operating_Systems/Hirens_Boot_CD_WinPE",
+                "tip": "A collection of repair utilities all in one place for older systems."
+            },
+            {
+                "dir": "/Live_Operating_Systems/Kali_Linux",
+                "tip": "A bootable live Kali Linux"
+            },
+            {
                 "dir": "/Live_Operating_Systems/Mini_Windows",
                 "tip": "A bootable WinPE of Windows 10 + PortableApps."
             },
@@ -567,6 +747,10 @@
             {
                 "dir": "/Partition_Tools/AOMEI_Partition_Assistant",
                 "tip": "An advanced disk partitioning tool that's easy to use."
+            },
+            {
+                "dir": "/Partition_Tools/Clonezilla",
+                "tip": "A disk cloning utility."
             },
             {
                 "dir": "/Partition_Tools/DiskGenius",
@@ -737,6 +921,10 @@
                 "tip": "UEFI or BIOS compatible."
             },
             {
+                "image": "/Partition_Tools/Clonezilla/clonezilla_live_v3.0.2-21_x64.iso",
+                "tip": "UEFI or BIOS compatible."
+            },
+            {
                 "image": "/Partition_Tools/DiskGenius/DiskGenius.wim",
                 "tip": "UEFI or BIOS compatible."
             },
@@ -872,6 +1060,14 @@
             "class": "active"
         },
         {
+            "dir": "/Live_Operating_Systems/Gandalfs_WinPE",
+            "class": "gandalfs_winpe"
+        },
+        {
+            "dir": "/Live_Operating_Systems/Kali_Linux",
+            "class": "kali"
+        },
+        {
             "dir": "/Live_Operating_Systems/Mini_Windows",
             "class": "windows10"
         },
@@ -940,6 +1136,10 @@
             "class": "aomeipartitionassistant"
         },
         {
+            "dir": "/Partition_Tools/Clonezilla",
+            "class": "clonezilla"
+        },
+        {
             "dir": "/Partition_Tools/DiskGenius",
             "class": "diskgenius"
         },
@@ -977,7 +1177,71 @@
         },
         {
             "dir": "/OSimages",
+            "class": "winlinux"
+        },
+        {
+            "dir": "/OSimages/OS_Linux",
+            "class": "linux"
+        },
+        {
+            "dir": "/OSimages/OS_Linux/Kali",
+            "class": "kali"
+        },
+        {
+            "dir": "/OSimages/OS_Linux/Linuxmint",
+            "class": "linuxmint"
+        },
+        {
+            "dir": "/OSimages/OS_Linux/Ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "dir": "/OSimages/OS_Windows",
+            "class": "windows"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/32bit(x86)",
+            "class": "x86"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)",
+            "class": "x64"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/32bit(x86)/Win7",
+            "class": "windows7"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/32bit(x86)/Win10Consumer",
+            "class": "windows10"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/32bit(x86)/Win10LTSC",
+            "class": "windows10"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/32bit(x86)/WinXP",
+            "class": "windowsxp"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)/Win7",
+            "class": "windows7"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)/Win8.1",
             "class": "windows8"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)/Win10Consumer",
+            "class": "windows10"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)/Win10LTSC",
+            "class": "windows10"
+        },
+        {
+            "dir": "/OSimages/OS_Windows/64bit(x64)/Win11",
+            "class": "windows11"
         },
         {
             "dir": "/Windows_Recovery",
