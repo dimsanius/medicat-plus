@@ -28,7 +28,7 @@ This is a Ventoy customisation to a MediCat USB v21.12.
     - Added Kali Linux Live
 - Partitioning Tools changes:
     - Added Clonezilla
-- "Install Windows" renamed to "Install OS", changed icon
+- "Install Windows" renamed to "Install OS", changed icons
     - Added Linux OS directory
         - Added Kali Linux Install
         - Added Linux Mint Install
@@ -45,6 +45,7 @@ This is a Ventoy customisation to a MediCat USB v21.12.
             - Windows 10
             - Windows 10 LTSC
             - Windows 11
+- Added "Delete Ventoy SecureBoot Key"
 </details>
 
 # Repo structure
