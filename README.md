@@ -47,10 +47,9 @@ This is a Ventoy customisation to a MediCat USB v21.12.
             - Windows 11
 </details>
 
-# Concerns
-There is no clear way of attaching a directoty tree from the USB. Therefore, there are 2 ways:
-- make directory structure out from `ventoy.json`
-- create new directory structure
+# Repo structure
+- `plain_ventoy_folder` contains all necessary files for Ventoy to work. However, it **DOES NOT** contain the drive structure. This may lead to missing icons and erroneous behaviour of Ventoy. Use with caution.
+- `structured_drive_folder` contains all necessary files for Ventoy to work along with a drive structure. Each folder containing `.placeholder` needs to have a file(s) specified within the file itself.
 
 # Links
 - Official MediCat USB website: [Official Medicat website](https://medicatusb.com/)
