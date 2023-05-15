@@ -440,15 +440,19 @@
             "alias": "Kali Linux -->"
         },
         {
-            "image": "/OSimages/OS_Linux/Kali/kali_2022.3_installer_amd64.iso",
-            "alias": "Install Kali Linux 2022.3"
+            "image": "/OSimages/OS_Linux/Kali/kali_2023.1_installer_amd64.iso",
+            "alias": "Install Kali Linux 2023.1"
+        },
+        {
+            "image": "/OSimages/OS_Linux/Kali/kali_2023.1a_installer_purple_amd64.iso",
+            "alias": "Install Kali Linux Purple 2023.1a"
         },
         {
             "dir": "/OSimages/OS_Linux/Linuxmint",
             "alias": "Linuxmint -->"
         },
         {
-            "image": "/OSimages/OS_Linux/Linuxmint/linuxmint_21_cinnamon_amd64.iso",
+            "image": "/OSimages/OS_Linux/Linuxmint/linuxmint_21.1_cinnamon_amd64.iso",
             "alias": "Install Linuxmint 21 (Cinnamon)"
         },
         {
@@ -456,8 +460,12 @@
             "alias": "Ubuntu -->"
         },
         {
-            "image": "/OSimages/OS_Linux/Ubuntu/ubuntu_22.10_desktop_amd64.iso",
-            "alias": "Install Ubuntu 22.10"
+            "image": "/OSimages/OS_Linux/Ubuntu/ubuntu_22.04.2_desktop_amd64.iso",
+            "alias": "Install Ubuntu 22.04 LTS"
+        },
+        {
+            "image": "/OSimages/OS_Linux/Ubuntu/ubuntu_23.04_desktop_amd64.iso",
+            "alias": "Install Ubuntu 23.04 LTS"
         },
         {
             "dir": "/OSimages/OS_Windows",
@@ -480,7 +488,7 @@
             "alias": "Windows 10(x32) -->"
         },
         {
-            "image": "/OSimages/OS_Windows/32bit(x86)/Win10Consumer/en_windows_10_consumer_editions_version_22h2_updated_nov_2022_x86_dvd_b1a4aa97.iso",
+            "image": "/OSimages/OS_Windows/32bit(x86)/Win10Consumer/en_windows_10_consumer_editions_version_22h2_updated_april_2023_x86_dvd_56fe0c73.iso",
             "alias": "Install Windows 10 22H2(x32)"
         },
         {
@@ -524,7 +532,7 @@
             "alias": "Windows 10(x64) -->"
         },
         {
-            "image": "/OSimages/OS_Windows/64bit(x64)/Win10Consumer/en_windows_10_consumer_editions_version_22h2_updated_nov_2022_x64_dvd_7fd29387.iso",
+            "image": "/OSimages/OS_Windows/64bit(x64)/Win10Consumer/en_windows_10_consumer_editions_version_22h2_updated_april_2023_x64_dvd_d3a93098.iso",
             "alias": "Install Windows 10 22H2(x64)"
         },
         {
@@ -540,7 +548,7 @@
             "alias": "Windows 11(x64) -->"
         },
         {
-            "image": "/OSimages/OS_Windows/64bit(x64)/Win11/en_windows_11_consumer_editions_version_22h2_updated_nov_2022_x64_dvd_c148a37b.iso",
+            "image": "/OSimages/OS_Windows/64bit(x64)/Win11/en_windows_11_consumer_editions_version_22h2_updated_april_2023_x64_dvd_8ddf307f.iso",
             "alias": "Install Windows 11 22H2(x64)"
         },
         {
