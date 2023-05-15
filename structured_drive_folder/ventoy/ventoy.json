@@ -465,7 +465,7 @@
         },
         {
             "image": "/OSimages/OS_Linux/Ubuntu/ubuntu_23.04_desktop_amd64.iso",
-            "alias": "Install Ubuntu 23.04 LTS"
+            "alias": "Install Ubuntu 23.04"
         },
         {
             "dir": "/OSimages/OS_Windows",
